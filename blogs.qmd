@@ -15,7 +15,7 @@
     <div class="profile-card">
       <img src="figures/Tika_Face.JPG" alt="Tika Ram Gurung"/>
       <div class="profile-name">Tika Ram Gurung</div>
-    <div class="profile-role">Ph.D. Candidate<br/>University of Nebraska-Lincoln</div>
+  <div class="profile-role">Ph.D. in Climatology & Meteorology<br/>University of Nebraska-Lincoln</div>
      
 
 <ul class="profile-links">

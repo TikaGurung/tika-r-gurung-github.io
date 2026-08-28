@@ -9,7 +9,7 @@ title-block-banner: false
 <div style="background: linear-gradient(135deg,#0d2b45,#1a4a6e); color:white; padding:1rem 1rem;">
   <div style="max-width:1100px; margin:0 auto;">
 
-    <p style="color:#c8d8e8;">Tika Ram Gurung · Updated May 2026</p>
+    <p style="color:#c8d8e8;">Tika Ram Gurung · Updated August 2026</p>
   </div>
 </div>
 
@@ -21,7 +21,7 @@ title-block-banner: false
     <div class="profile-card">
       <img src="figures/Tika_Face.JPG" alt="Tika Ram Gurung"/>
       <div class="profile-name">Tika Ram Gurung</div>
-    <div class="profile-role">Ph.D. Candidate<br/>University of Nebraska-Lincoln</div>
+    <div class="profile-role">Ph.D. in Climatology & Meteorology<br/>University of Nebraska-Lincoln</div>
      
 <ul class="profile-links">
   <li>📍 Lincoln, NE</li>
@@ -53,10 +53,10 @@ title-block-banner: false
     <div class="section-title">Education</div>
     <br/>
     <div class="timeline-item">
-      <div class="timeline-year">2023 – Present</div>
-      <div class="timeline-title">Ph.D. Candidate · Climatology/Meteorology</div>
-      <div class="timeline-sub">University of Nebraska-Lincoln · Expected Summer 2026</div>
-      <div class="timeline-sub" style="margin-top:0.3rem; font-style:italic;">Dissertation: High-Resolution Climate Simulations and Impacts of Local Human Factors on Hydroclimate and Glacier Dynamics in High Mountain Asia</div>
+      <div class="timeline-year">2023 – 2026</div>
+      <div class="timeline-title">Ph.D. in · Climatology/Meteorology</div>
+      <div class="timeline-sub">University of Nebraska-Lincoln · Graduation in Summer 2026</div>
+      <div class="timeline-sub" style="margin-top:0.3rem; font-style:italic;">Dissertation: High-Resolution Modeling of Lowland Irrigation Impacts on Hydroclimate and Glacier Mass Balance in High Mountain Asia</div>
     </div>
     <div class="timeline-item">
       <div class="timeline-year">2013 – 2015</div>
